@@ -2,9 +2,7 @@
 
 
 <br>
-Your can read from DigitalOcean. <br/>
-[Spring-data-jpa 查询  复杂查询陆续完善中](http://www.cnblogs.com/sxdcgaq8080/p/7894828.html)
-[How To Set Up SSH Keys on CentOS 7](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-centos7)
+Your can read from DigitalOcean. [How To Set Up SSH Keys on CentOS 7](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-centos7)
 # Step 1 — Create the RSA Key Pair 
 
 The first step is to create a key pair on your computer:
