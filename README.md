@@ -2,7 +2,7 @@
 
 
 <br>
-Your can read from DigitalOcean. [How To Set Up SSH Keys on CentOS 7](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-centos7)
+Your can read from DigitalOcean.[How To Set Up SSH Keys on CentOS 7](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-centos7)
 
 # Step 1 — Create the RSA Key Pair 
 
@@ -37,7 +37,9 @@ Here you optionally may enter a secure passphrase. A passphrase adds an addition
 
 You now have a public and private key that you can use to authenticate. The next step is to place the public key on your server so that you can use SSH-key-based authentication to log in.
 
-#Step 2 — Copy the Public Key to CentOS Server
+
+# Step 2 — Copy the Public Key to CentOS Server
+
 
 For this method to work, you must already have password-based SSH access to your server.
 
