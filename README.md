@@ -2,7 +2,7 @@
 
 
 <br>
-Your can read from DigitalOcean [How To Set Up SSH Keys on CentOS 7].
+Your can read from DigitalOcean [Set Up SSH Keys on CentOS](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-centos7).
 
 # Step 1 — Create the RSA Key Pair 
 
@@ -83,4 +83,3 @@ At this point, your id_rsa.pub key has been uploaded to the remote account.
 
 
 
-[How To Set Up SSH Keys on CentOS 7]: https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-centos7 "How To Set Up SSH Keys on CentOS 7"
